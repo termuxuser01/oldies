@@ -1,3 +1,4 @@
+//Officialy my first code on github
 #include <iostream>
 using namespace std;
 int main()
